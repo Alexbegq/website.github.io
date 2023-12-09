@@ -23357,6 +23357,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -23404,7 +23405,7 @@
       <workItem from="1701343077608" duration="15290000" />
       <workItem from="1701775161649" duration="35058000" />
       <workItem from="1701978526669" duration="13179000" />
-      <workItem from="1702138097943" duration="337000" />
+      <workItem from="1702138097943" duration="414000" />
     </task>
     <servers />
   </component>
